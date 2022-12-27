@@ -1,2 +1,2 @@
 # webcraper
-Javascript-based project dedicated to scraping live website traffic.
+A simple javascript-based project dedicated to scraping Github Marketplace.
