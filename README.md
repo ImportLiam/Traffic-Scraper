@@ -1,2 +1,2 @@
-# Traffic-Scraper
+# webcraper
 Javascript-based project dedicated to scraping live website traffic.
